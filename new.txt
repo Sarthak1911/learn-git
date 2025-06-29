@@ -1,1 +1,2 @@
 this is new file
+this is a new change in feature 1
